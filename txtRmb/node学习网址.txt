@@ -1,0 +1,5 @@
+https://github.com/i0natan/nodebestpractices
+
+https://github.com/HerbertKarajan/Fe-Interview-questions
+
+https://cnodejs.org/topic/58ad76db7872ea0864fedfcc
